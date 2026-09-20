@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "ASSUMPTION": {
+    "url": "https://cdn.jsdelivr.net/gh/endurative/app-temp-assest@main/guided_assume.mp4",
+    "filename": "guided_meditation.mp4"
+  },
+  "SATS": {
+    "url": "https://cdn.jsdelivr.net/gh/endurative/app-temp-assest@main/guided_assume.mp4",
+    "filename": "sats_sleep_meditation.mp4"
+  },
+  "AMBIENT": {
+    "rain": "https://cdn.jsdelivr.net/gh/endurative/app-temp-assest@main/rain.m4a",
+    "ocean": "https://cdn.jsdelivr.net/gh/endurative/app-temp-assest@main/ocean_m4a.m4a",
+    "forest": "https://cdn.jsdelivr.net/gh/endurative/app-temp-assest@main/forest_long_m4a.m4a",
+    "rain_forest": "https://cdn.jsdelivr.net/gh/endurative/app-temp-assest@main/rain-forest_short_m4a.mp3"
+  }
+}
