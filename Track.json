@@ -1,11 +1,11 @@
 {
   "version": 1,
   "ASSUMPTION": {
-    "url": "https://cdn.jsdelivr.net/gh/endurative/app-temp-assest@main/guided_assume.mp4",
+    "url": "https://cdn.jsdelivr.net/gh/endurative/app-temp-assest@main/v2-assume-audio.mp3",
     "filename": "guided_meditation.mp4"
   },
   "SATS": {
-    "url": "https://cdn.jsdelivr.net/gh/endurative/app-temp-assest@main/guided_assume.mp4",
+    "url": "https://cdn.jsdelivr.net/gh/endurative/app-temp-assest@main/v2-assume-audio.mp3",
     "filename": "sats_sleep_meditation.mp4"
   },
   "AMBIENT": {
